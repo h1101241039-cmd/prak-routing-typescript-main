@@ -1,3 +1,3 @@
 # prak-routing-typescript
-implementasi pada routing manual dengan typescript
-"# prak-routing-typescript-main" 
+
+untuk memenuhi tugas Praktikum Web Lanjut semester 4
